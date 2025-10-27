@@ -4,8 +4,7 @@
   "description": "yandex algorithms",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onsuccess \"node index.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc-watch --onsuccess \"node index.js\""
   },
   "author": "Yaroslav M.",
   "license": "ISC"

@@ -21,4 +21,6 @@
 // import "./sprint_2/D/index";
 // import "./sprint_2/E/index";
 // import "./sprint_2/F/index";
-import "./sprint_2/G/index";
+// import "./sprint_2/G/index";
+// import "./sprint_2/H/index";
+import "./sprint_2/J/index";
